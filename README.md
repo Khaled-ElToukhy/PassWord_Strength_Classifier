@@ -8,8 +8,8 @@ The logistic regression model is trained on a labeled dataset of passwords with 
 The dataset used for training and evaluation consists of a collection of passwords along with their corresponding strength labels. It is split into a training set and a test set to assess the performance of the trained model.
 
 ### Requirements
-Python 3.x
-Libraries: numpy, pandas, scikit-learn, nltk, plotly.express
+* Python 3.x
+* Libraries: numpy, pandas, scikit-learn, nltk, plotly.express
 
 ### Results
 The trained model achieves an accuracy of 82% on the test set, demonstrating its effectiveness in predicting password strength.
