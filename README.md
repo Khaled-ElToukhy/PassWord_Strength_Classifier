@@ -9,7 +9,7 @@ The dataset used for training and evaluation consists of a collection of passwor
 
 ### Requirements
 * Python 3.x
-* Libraries: numpy, pandas, scikit-learn, nltk, plotly.express
+* Libraries : numpy , pandas , scikit-learn , nltk , plotly.express
 
 ### Results
 The trained model achieves an accuracy of 82% on the test set, demonstrating its effectiveness in predicting password strength.
